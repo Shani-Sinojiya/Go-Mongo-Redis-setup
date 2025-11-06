@@ -6,6 +6,7 @@ import (
 	"time"
 
 	"YOUR_PROJECT_NAME/constants"
+
 	"github.com/dgrijalva/jwt-go"
 )
 
