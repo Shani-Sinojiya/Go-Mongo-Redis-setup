@@ -62,7 +62,6 @@ uploads/
 
 # Air - Live reload for Go
 tmp/
-.air.toml
 
 # Debug files
 __debug_bin
